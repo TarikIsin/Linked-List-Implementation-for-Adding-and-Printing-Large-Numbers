@@ -1,1 +1,3 @@
 # Linked-List-Implementation-for-Adding-and-Printing-Large-Numbers
+
+  The code creates a linked list data structure in C language that accepts two large integer numbers (as strings) from the user and stores them in separate linked lists. The digits of the integers are stored in reverse order in the linked lists, with each node of the linked list containing a single digit. The program uses the addDigit() function to insert a new digit node at the beginning of the linked list for each new digit entered by the user. Finally, the code prints out the linked list contents in the order that they were entered by the user.
